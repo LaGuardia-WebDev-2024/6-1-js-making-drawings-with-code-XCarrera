@@ -11,7 +11,18 @@ void draw(){
   strokeWeight(3);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
-  ellipse(50,50,100,80);
+   ellipse(200,27,40,20);
+  ellipse(200,30,100,10);
+  ellipse(200,70,80,80);
+   ellipse(220,70,10,10);
+   ellipse(200,70,10,10);
+   ellipse(220,90,10,13);
+  ellipse(200,154,100,90);
+  ellipse(220,138,10,10);
+  ellipse(220,154,10,10);
+  ellipse(220,170,10,10);
+  ellipse(200,248,130,100);
+
   
 
 }
